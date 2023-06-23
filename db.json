@@ -91,7 +91,7 @@
     },
     {
       "name": "Suco 500ml",
-      "price": 500,
+      "price": 300,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
       "type": "Bebidas",
       "id": 4
