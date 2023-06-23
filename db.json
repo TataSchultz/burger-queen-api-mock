@@ -100,7 +100,7 @@
     {
       "name": "Suco 500ml",
       "price": 300,
-      "image": "https://raw.githubusercontent.com/TataSchultz/burger-queen-api-mock/main/orange-juice.png",
+      "image": "https://raw.githubusercontent.com/TataSchultz/burger-queen-api-mock/main/juice.png",
       "type": "Bebidas",
       "id": 4
     }
